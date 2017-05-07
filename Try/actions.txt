@@ -1,0 +1,1 @@
+jar cvfm WebStart.jar manifest.txt *.class

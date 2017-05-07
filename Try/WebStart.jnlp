@@ -1,0 +1,18 @@
+<jnlp spec="1.0+" codebase="" href="">
+    <information>
+    <title>Web start</title>
+    <vendor>Self</vendor>
+    </information>
+    <resources>
+    <j2se version="1.8+"
+         href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="WebStart.jar" main="true" />
+    </resources>
+    <applet-desc 
+     name="Web start"
+     main-class="HelloWorld"
+     width="500"
+     height="500">
+     </applet-desc>
+     <update check="background"/>
+</jnlp>
