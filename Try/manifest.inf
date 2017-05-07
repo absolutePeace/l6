@@ -1,4 +1,5 @@
 Manifest-Version: 1.0
 permissions: all-permissions
+Codebase: *
 Main-Class: HelloWorld.class
 
